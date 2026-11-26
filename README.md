@@ -1,4 +1,16 @@
-## Hi there 👋
+Hi, I’m Priyadharshini S! 👋
+
+🎓 B.Sc. Computer Science with Data Analytics
+
+💻 Aspiring Developer | Python | Java | Web Development
+
+
+🤖 Interested in AI, Data Analytics & Technology
+
+🌱 Learning • Building • Growing
+
+
+✨ Turning curiosity into creativity through technology.
 
 <!--
 **priyasakthivel6799/priyasakthivel6799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
